@@ -51,5 +51,5 @@ geography, and product categories to derive actionable business insights.
 > should prioritize targeted marketing campaigns toward this demographic, focusing on Food,
 > Clothing, and Electronics categories to maximize sales revenue.
 
----
+
 
