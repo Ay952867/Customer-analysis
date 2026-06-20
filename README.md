@@ -53,23 +53,3 @@ geography, and product categories to derive actionable business insights.
 
 ---
 
-## How to Run
-1. Clone the repository
-```bash
-git clone https://github.com/Harsh7370/Diwali-Sales-Analysis.git
-```
-2. Install dependencies
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-3. Open the notebook
-```bash
-jupyter notebook Diwali-Sales-Analysis.ipynb
-```
-
----
-
-## Author
-**Harsh Raj**
-LinkedIn: https://www.linkedin.com/in/harshraj7370
-GitHub: https://github.com/Harsh7370
